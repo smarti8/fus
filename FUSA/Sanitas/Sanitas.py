@@ -170,10 +170,10 @@ subtitulo.pack(pady=2)
 descripcion = tk.Label(
     ventana,
     text=(
-        "🗂️ Esta herramienta realiza automáticamente:\n"
-        "• Respaldo seguro de todos tus archivos antes de renombrarlos\n"
+        "🗂️ Esta herramienta realiza automáticamente.\n"
+        "• Respaldo seguro de todos tus archivos antes de renombrarlos.\n"
         "• Renombrado inteligente según reglas internas (PDF, JSON, TXT)\n"
-        "• Registro detallado de todos los cambios en una carpeta separada\n\n"
+        "• Registro detallado de todos los cambios en una carpeta separada.\n\n"
         "📌 Ideal para manejo de facturas, reportes y documentos técnicos."
     ),
     bg="#e5f0fb", fg="#333",
